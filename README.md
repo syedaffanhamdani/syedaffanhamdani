@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaffanhamdani&label=Profile%20views&color=0e75b6&style=flat" alt="syedaffanhamdani" /> </p>
 
 - 🌱 I’m currently learning **Kubernetes**
-- ⚡ Fun fact: I maintain a (CS jokes repository)[https://github.com/syedaffanhamdani/cs-jokes]for nerds
+- ⚡ Fun fact: I maintain a [CS jokes repository](https://github.com/syedaffanhamdani/cs-jokes) for nerds
 
 <p align="left">
 </p>

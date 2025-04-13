@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaffanhamdani&label=Profile%20views&color=0e75b6&style=flat" alt="syedaffanhamdani" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning [**Model Context Protocol**](https://www.anthropic.com/news/model-context-protocol)
 - ⚡ Fun fact: I maintain a [CS jokes repository](https://github.com/syedaffanhamdani/cs-jokes) for nerds
 
 <p align="left">
